@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kiretwo
-- 👀 I’m interested in coding and gaming
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Front-End Development
 - 📫 Reach me at: eritor00991@stud.noroff.no 
 
